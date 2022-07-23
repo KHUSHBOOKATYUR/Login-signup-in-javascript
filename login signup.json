@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "khushbu katyura",
+        "Password": "khushbu@123",
+        "D.O.B": "10-01-2001",
+        "Gender": "female",
+        "Bio": "photographer"
+    },
+    {
+        "Name": "Pinki Mandal",
+        "Password": "Pinki@123",
+        "D.O.B": "89-90-78898",
+        "Gender": "male",
+        "Bio": "photographer"
+    },
+    {
+        "Name": "pinki",
+        "Password": "pinki@123",
+        "D.O.B": "123",
+        "Gender": "female",
+        "Bio": "wert"
+    }
+]
